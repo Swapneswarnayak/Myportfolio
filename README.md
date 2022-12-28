@@ -3,6 +3,8 @@
 <div align="center">
 <img src="./src/img/docs/demo.gif" width="600px">
 </div> <br>
+I build websites using React, HTML, CSS, JavaScript, and a other frameworks and libraries. I spend most days learning and building up, from scratch along with all the functionality.
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite&logoColor=8B73FE"></img>
@@ -43,17 +45,4 @@
 └── vite.config.js
 ```
 
-## How To Use 🔧
 
-To use this template read the [GUIDE.md](./GUIDE.md) file.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-## Sponsor 💛
-
-Give a ⭐ if you like this website!
-<br>
-
-<a href="https://www.buymeacoffee.com/zougari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
