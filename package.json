@@ -12,6 +12,9 @@
   "author": "Ahmed Zougari<zougarii.ahmed@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.15",
     "@popperjs/core": "^2.11.5",
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",

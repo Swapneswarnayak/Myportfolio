@@ -51,6 +51,65 @@ body {
   overflow-x: hidden;
 }
 
+// navbar media screen 
+  @media screen and (max-width: 480px) {
+    .bootstrap-icon{
+      display: none
+    }
+  }
+
+// tooltip for download resume
+
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    // border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 160px;
+    
+    // background-color: black;
+    color: #000000;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    // margin-top: 40px;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    display: flex;
+    font-family: Raleway, sans-serif;
+    background-color: #1F81FE;
+    color: white;
+    padding: 0px 5px 0px 5px;
+    
+  }
+
+
+  // resume_download button css
+
+  .download_resume{
+    border-radius: 10px;
+    background-color: #1F81FE;
+    color: aliceblue;
+    font-family: Raleway, sans-serif;
+    border:0;
+    padding: 4px 10px;
+
+  }
+  .download_resume:hover{
+    background-color: #91bffc;
+    color: #454c54
+  }
+
+
 // Components
 @import './components/header';
 @import './components/hero';
